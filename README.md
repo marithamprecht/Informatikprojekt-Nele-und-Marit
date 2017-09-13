@@ -27,5 +27,9 @@ Danach haben wir versucht das Programm Greenfoot besser verstehen zu können bzw
 
 ### Wie setzte ich einen Sreenshot und füge ihn in GitHup ein?
 
+Marit konnte aufgrund von Krankheit nicht am Unterricht teilnehmen. Deshalb hab ich (Nele) in unserem GitHup-Projekt die Verlinkungen zu den Stunden 1/2 hergestellt und versucht einen Sreenshot einzusetzen. Zunächst musste ich herraus finden wie man einen Sreenshot macht. Taste: DruckSrg. Danach wurde dieser in Paint geöffnet und ausgeschnitten.
+
+
+
 
 ! [Screenshot01] (Für Git-Hup Shreenshot Übung.png "Shot")
