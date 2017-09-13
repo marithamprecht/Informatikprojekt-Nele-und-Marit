@@ -25,7 +25,7 @@ Danach haben wir versucht das Programm Greenfoot besser verstehen zu können bzw
 
 ## Zweite Stunde<a name="2"></a>
 
-### Wie setzte ich einen Sreenshot und füge ihn in Git-Hup ein?
+### Wie setzte ich einen Sreenshot und füge ihn in GitHup ein?
 
 
 ! [Screenshot01] (Für Git-Hup Shreenshot Übung.png "Shot")
