@@ -35,7 +35,7 @@ Marit konnte aufgrund von Krankheit nicht am Unterricht teilnehmen. Deshalb hab 
 
 ## Vierte und fünfte Stunde<a name="3"></a>
 
-Wir haben auf GitHub einen Ordner für Bilder an gelegt und einen Screenshot hochgeladen.
+Wir haben auf GitHub einen Ordner für Bilder an gelegt und einen Screenshot hochgeladen. Anschließend haben wir gelernt wie man einen Screenshot in ein Projekt einfügt.
 
 
 ![Screenshot01](Bilder/Screenshot01.png "Shot!")
