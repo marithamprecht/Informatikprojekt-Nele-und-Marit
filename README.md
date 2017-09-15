@@ -30,10 +30,13 @@ Danach haben wir versucht das Programm Greenfoot besser verstehen zu können bzw
 Marit konnte aufgrund von Krankheit nicht am Unterricht teilnehmen. Deshalb hab ich (Nele) in unserem GitHub-Projekt die Verlinkungen zu den Stunden 1 und 2 hergestellt, und versucht einen Screenshot einzusetzen. Zunächst musste ich heraus finden wie man einen Screenshot macht. Taste: DruckS-Abf. Danach wurde dieser in Paint geöffnet und ausgeschnitten.
 
 
-![Screenshot01](Bilder/Screenshot01.png "Shot!")
+
 
 
 ## Vierte und fünfte Stunde<a name="3"></a>
 
+Wir haben auf GitHub einen Ordner für Bilder an gelegt und einen Screenshot hochgeladen.
 
+
+![Screenshot01](Bilder/Screenshot01.png "Shot!")
 
