@@ -43,15 +43,15 @@ Wir haben auf GitHub einen Ordner für Bilder an gelegt und einen Screenshot hoc
 Greenfootprojekt Grundidee:
 - Unterwasserwelt
 
-- Delfine und Fische
+- Delfine und Fisch, Anker
 
 - Delfin ist steuerbar
 
-- Fische bewegen sich nach Regeln
+- Fisch bewegt sich nach Regeln
 
-- Spielziel Delfin isst eine Art von Fisch, soll alle essen
+- Spielziel Delfin isst Fisch, soll alle essen
 
-- wird anderer Fisch berührt Spiel Ende
+- trifft Anker Delfin, Spiel Ende
 
 
 
