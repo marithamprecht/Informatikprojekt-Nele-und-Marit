@@ -40,7 +40,7 @@ Wir haben auf GitHub einen Ordner für Bilder an gelegt und einen Screenshot hoc
 
 ![Screenshot01](Bilder/Screenshot01.png "Shot!")
 
-###Greenfootprojekt 
+### Greenfootprojekt 
 
 Grundidee:
 
