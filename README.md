@@ -56,6 +56,8 @@ Grundidee:
 
 - trifft Anker Delfin, Spiel Ende
 
+Zuerst haben wir uns den wet-blue Hintergrund für unsere Welt ausgesucht und eingefügt. Sie trägt den Namen "Unterwasserwelt".
+
 
 
 
