@@ -43,7 +43,7 @@ Wir haben auf GitHub einen Ordner für Bilder an gelegt und einen Screenshot hoc
 Greenfootprojekt Grundidee:
 - Unterwasserwelt
 
-- Delfine und Fisch, Anker
+- Delfine, Fisch und Anker
 
 - Delfin ist steuerbar
 
