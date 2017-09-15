@@ -40,7 +40,10 @@ Wir haben auf GitHub einen Ordner für Bilder an gelegt und einen Screenshot hoc
 
 ![Screenshot01](Bilder/Screenshot01.png "Shot!")
 
-Greenfootprojekt Grundidee:
+###Greenfootprojekt 
+
+Grundidee:
+
 - Unterwasserwelt
 
 - Delfine, Fisch und Anker
@@ -52,6 +55,10 @@ Greenfootprojekt Grundidee:
 - Spielziel Delfin isst Fisch, soll alle essen
 
 - trifft Anker Delfin, Spiel Ende
+
+
+
+
 
 
 
