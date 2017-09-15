@@ -40,3 +40,18 @@ Wir haben auf GitHub einen Ordner für Bilder an gelegt und einen Screenshot hoc
 
 ![Screenshot01](Bilder/Screenshot01.png "Shot!")
 
+Greenfootprojekt Grundidee:
+- Unterwasserwelt
+
+- Delfine und Fische
+
+- Delfin ist steuerbar
+
+- Fische bewegen sich nach Regeln
+
+- Spielziel Delfin isst eine Art von Fisch, soll alle essen
+
+- wird anderer Fisch berührt Spiel Ende
+
+
+
