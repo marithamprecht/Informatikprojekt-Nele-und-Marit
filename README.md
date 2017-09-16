@@ -9,18 +9,11 @@
 
 
 
-
-
-
 ## Erste und zweite Stunde<a name="1"></a> (Doppelstunde)
 
 Zu erst legten wir (Marit und Nele) uns einen Github Account an. Dies war aufwendiger als wir dachten, da das Programm zunächst nicht Nele's E-Mail akzeptierte. Letztlich hat es funktioniert.
+
 Danach haben wir versucht das Programm Greenfoot besser verstehen zu können bzw. kennen zu lernen . Wir brachten dem Wombat bei statt nach links abzubiegen, nach rechts zu laufen, wenn er auf eine Wand trift.
-
-
-
-
-
 
 
 
@@ -28,13 +21,13 @@ Danach haben wir versucht das Programm Greenfoot besser verstehen zu können bzw
 
 ### Wie setzte ich einen Screenshot und füge ihn in GitHub ein?
 
-Marit konnte aufgrund von Krankheit nicht am Unterricht teilnehmen. Deshalb hab ich (Nele) in unserem GitHub-Projekt die Verlinkungen zu den Stunden 1 und 2 hergestellt, und versucht einen Screenshot einzusetzen. Zunächst musste ich heraus finden wie man einen Screenshot macht. Taste: DruckS-Abf. Danach wurde dieser in Paint geöffnet und ausgeschnitten.
+Marit konnte aufgrund von Krankheit nicht am Unterricht teilnehmen. 
+
+Deshalb hab ich (Nele) in unserem GitHub-Projekt die Verlinkungen zu den Stunden 1 und 2 hergestellt, und versucht einen Screenshot einzusetzen. Zunächst musste ich heraus finden wie man einen Screenshot macht. Taste: DruckS-Abf. Danach wurde dieser in Paint geöffnet und ausgeschnitten.
 
 
 
-
-
-## Vierte und fünfte Stunde<a name="3"></a>
+## Vierte und fünfte Stunde<a name="3"></a> (Doppelstunde)
 
 Wir haben auf GitHub einen Ordner für Bilder an gelegt und einen Screenshot hochgeladen. Anschließend haben wir gelernt wie man einen Screenshot in ein Projekt einfügt:
 
@@ -60,6 +53,7 @@ Grundidee:
 - trifft Anker Delfin, Spiel Ende
 
 Zuerst haben wir uns den wet-blue Hintergrund für unsere Welt ausgesucht und eingefügt. Sie trägt den Namen "Unterwasserwelt". Danach setzten wir mit der Funktion "new subtitles" einen Fisch in unsere Welt. Durch "open editor" könnten wir mit Hilfe von (Seite) unserem Fisch so programieren, dass er sich bewegt (move (Anzahl der Schritte)).
+
 
 
 ## Sechste Stunde <a name="4"></a>
