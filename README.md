@@ -46,17 +46,19 @@ Grundidee:
 
 - Unterwasserwelt
 
-- Delfine, Fisch und Anker
+- Delfin, Fisch und Anker
 
 - Delfin ist steuerbar
 
 - Fisch bewegt sich nach Regeln
 
+- Anker fällt vom oberen Spielrand
+
 - Spielziel Delfin isst Fisch, soll alle essen
 
 - trifft Anker Delfin, Spiel Ende
 
-Zuerst haben wir uns den wet-blue Hintergrund für unsere Welt ausgesucht und eingefügt. Sie trägt den Namen "Unterwasserwelt".
+Zuerst haben wir uns den wet-blue Hintergrund für unsere Welt ausgesucht und eingefügt. Sie trägt den Namen "Unterwasserwelt". Danach setzten wir mit der Funktion "new subtitles" einen Fisch in unsere Welt. Durch "open editor" könnten wir mit Hilfe von (Seite) unserem Fisch so programieren, dass er sich bewegt (move (Anzahl der Schritte)).
 
 
 
