@@ -5,7 +5,7 @@
 
 [15/09/17, 4. und 5. Stunde](#3)
 
-20/09/17, 6. Stunde (#4)
+[20/09/17, 6. Stunde](#4)
 
 
 
@@ -62,7 +62,7 @@ Grundidee:
 Zuerst haben wir uns den wet-blue Hintergrund für unsere Welt ausgesucht und eingefügt. Sie trägt den Namen "Unterwasserwelt". Danach setzten wir mit der Funktion "new subtitles" einen Fisch in unsere Welt. Durch "open editor" könnten wir mit Hilfe von (Seite) unserem Fisch so programieren, dass er sich bewegt (move (Anzahl der Schritte)).
 
 
-
+## Sechste Stunde <a name="4"></a>
 
 
 
