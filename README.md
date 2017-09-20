@@ -54,7 +54,7 @@ Grundidee:
 
 Zuerst haben wir uns den wet-blue Hintergrund für unsere Welt ausgesucht und eingefügt. Sie trägt den Namen "Unterwasserwelt". Danach setzten wir mit der Funktion "new subclass" einen Fisch in unsere Welt. Durch "open editor" konnten wir mit Hilfe von Greenfoot Class Documentation unseren Fisch so programmieren, dass er sich bewegt (move (Anzahl der Schritte)).
 
-![Screenshot01]
+![Screenshot01](Bilder/Screenshot02Greenfootspiel.png "Fisch!")
 
 
 
