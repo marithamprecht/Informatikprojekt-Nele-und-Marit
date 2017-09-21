@@ -7,6 +7,8 @@
 
 [20/09/17, 6. Stunde](#4)
 
+[22/09/17, 7. und 8. Stunde](#5)
+
 
 
 ## Erste und zweite Stunde<a name="1"></a> (Doppelstunde)
@@ -59,6 +61,12 @@ Zuerst haben wir uns den wet-blue Hintergrund für unsere Welt ausgesucht und ei
 
 
 ## Sechste Stunde <a name="4"></a>
+Diese Stunde wollten wir erreichen, dass sich unser Fisch dreht, wenn er an den Ecken der Welt ankommt.
+
+![Screenshot01](Bilder/Screenshot03GreenfootFischdrehtsich.png "Drehen!"
+
+
+## Siebte und achte Stunde <a name="5"></a> (Doppelstunde)
 
 
 
