@@ -66,7 +66,8 @@ Diese Stunde wollten wir erreichen, dass sich unser Fisch dreht, wenn er an den 
 ![Screenshot01](Bilder/Screenshot03GreenfootFischdrehtsich.png "Drehen!")
 
 
-## Siebte und achte Stunde <a name="5"></a> (Doppelstunde)
+## Siebte Stunde <a name="5"></a> 
+In dieser Stunde war Herr Buhl abwesend.
 
 
 
