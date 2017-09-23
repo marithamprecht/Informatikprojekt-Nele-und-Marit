@@ -10,7 +10,7 @@
 
 [22/09/17, 7. Stunde](#5)
 
-
+[27/09/17, 8. Stunde](#6)
 
 
 
@@ -62,7 +62,6 @@ Zuerst haben wir uns den wet-blue Hintergrund für unsere Welt ausgesucht und ei
 ![Screenshot01](Bilder/Screenshot02Greenfootspiel.png "Fisch!")
 
 
-
 ## Sechste Stunde <a name="4"></a>
 Diese Stunde wollten wir erreichen, dass sich unser Fisch dreht, wenn er an den Ecken der Welt ankommt.
 
@@ -79,5 +78,5 @@ Wir programmierten den Fisch so, dass er sich, wenn man Start drückte, um eine 
 Danach hatten wir die Ideee einen neuen gelben Kasten zu öffnen, damit alle eingestellen Funktionen, wie "move","turn(getRandomNumber)" und "atWorldEgde", gleichzeitig ablaufen sollten. 
 
 
-
+## Achte Stunde <a name="6"></a>
 
