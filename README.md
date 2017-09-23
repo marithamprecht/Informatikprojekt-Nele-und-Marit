@@ -71,11 +71,11 @@ Diese Stunde wollten wir erreichen, dass sich unser Fisch dreht, wenn er an den 
 ## Siebte Stunde <a name="5"></a> 
 In dieser Stunde war Herr Buhl abwesend. Dennoch arbeiteten wir an unserem Greenfootprojekt weiter.
 
-Zunächst war unser Plan der Stunde den Fisch unbestimmt durch unsere Unterwasserwelt laufen zu lassen. Jedoch stellte sich das ohne helfene Tip, als ziemlich schwierig, wenn nicht sogar als unmöglich herraus, wenn keine Programmiervorkenntnisse existieren. Wir versuchten unser Glück.
+Zunächst war unser Plan der Stunde den Fisch unbestimmt durch unsere Unterwasserwelt laufen zu lassen. Jedoch stellte sich das ohne helfene Tips, als ziemlich schwierig, wenn nicht sogar als unmöglich herraus, wenn keine Programmiervorkenntnisse existieren. Wir versuchten unser Glück.
 
 Wir programmierten den Fisch so, dass er sich, wenn man Start drückte, um eine bestimmte Gradzahl drehte und danach an der Ecke der Unterwasserwelt, die eingestellten Schritte lief.
 
-Danach hatten wir die Ideee einen neuen gelben Kasten zu öffnen, damit alle eingestellen Funktionen, wie "move","turn(getRandomNumber)" und "atWorldEgde", gleichzeitig ablaufen sollten. 
+Danach hatten wir die Idee einen neuen, gelben Kasten zu öffnen, damit alle eingestellen Funktionen, wie "move","turn(getRandomNumber)" und "atWorldEgde", gleichzeitig ablaufen sollten. 
 
 
 ## Achte Stunde <a name="6"></a>
