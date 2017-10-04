@@ -83,23 +83,23 @@ Danach hatten wir die Idee einen neuen, gelben Kasten zu öffnen, damit alle ein
 ## Achte Stunde <a name="6"></a>
 Wir haben uns dazu entschlossen mit Hilfe eines festgelegten Lernprogramms (Szenario meet the greep).
 
-### Aufgabe eins:
+#### Aufgabe eins:
 
 Der Greep bewegt sich nach rechts und läuft an den Tomaten vorbei.
 
-### Aufgabe zwei:
+#### Aufgabe zwei:
 
 Der Greep dreht sich im auf der Stelle.
 
-### Aufgabe drei:
+#### Aufgabe drei:
 
 Der Greep dreht sich im Kreis.
 
-### Aufgabe vier:
+#### Aufgabe vier:
 
 Der Greep bekommt den Befehl sich geradeaus zu bewegen. Sobald er den Rand der Welt erreicht, bekommt er einen anderen Befehl, nämlich sich zu drehen. Sobald diese Bedingung (Greep befindet sich am Rand der Welt) nicht mehr erfüllt wird, bewegt der Greep sich wieder geradeaus.
 
-### Aufgabe fünf:
+#### Aufgabe fünf:
 
 Wir fügen eine weitere Bedingung hinzu: Wenn der Greep eine Tomate berührt, so soll er sie entfernen.
 
