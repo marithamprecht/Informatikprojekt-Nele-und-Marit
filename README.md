@@ -87,5 +87,9 @@ Aufgabe eins:
 
 Der Greep bewegt sich nach rechts und läuft an den Tomaten vorbei.
 
+Aufgabe zwei:
+
+Der Greep dreht sich im auf der Stelle.
+
 
 
