@@ -91,5 +91,9 @@ Aufgabe zwei:
 
 Der Greep dreht sich im auf der Stelle.
 
+Aufgabe drei:
+
+Der Greep dreht sich im Kreis.
+
 
 
