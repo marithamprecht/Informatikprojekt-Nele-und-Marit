@@ -10,7 +10,7 @@
 
 [22/09/17, 7. Stunde](#5)
 
-[29/09/17, 8. Stunde](#6)
+[04/10/17, 8. Stunde](#6)
 
 
 
@@ -82,5 +82,5 @@ Danach hatten wir die Idee einen neuen, gelben Kasten zu öffnen, damit alle ein
 
 ## Achte Stunde <a name="6"></a>
 
-In dieser Stunde war her Buhl abwesend. Wir arbeiteten an unserem Greenfootprojekt weiter.
+Wir arbeiteten an unserem Greenfootprojekt weiter.
 
