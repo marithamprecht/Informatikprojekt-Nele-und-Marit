@@ -81,6 +81,11 @@ Danach hatten wir die Idee einen neuen, gelben Kasten zu öffnen, damit alle ein
 
 
 ## Achte Stunde <a name="6"></a>
+Wir haben uns dazu entschlossen mit Hilfe eines festgelegten Lernprogramms (Szenario meet the greep).
 
-Wir arbeiteten an unserem Greenfootprojekt weiter.
+Aufgabe eins:
+
+Der Greep bewegt sich nach rechts und läuft an den Tomaten vorbei.
+
+
 
