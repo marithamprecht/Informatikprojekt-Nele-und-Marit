@@ -119,3 +119,7 @@ Wir lassen den Greep mithilfe der Pfeiltasten drehen, indem wir unter die "act" 
 Zunächst haben wir wie gefordert den Befehl "private int tomatoes <=0" dem Abschnitt "Fields" hinzugefügt. Damit die gefressenen Tomaten auch gezählt werden, mussten wir den Befehl "tomatoes <= tomatoes +1" unter dem Abschnitt "if (isTouching(Tomato.class))" der "act" Methode hinzufügen.
 
 ![Screenshot01](Bilder/Screenshot.Greepzaehlttomarten.png "Greep!")
+
+#### Aufgabe acht:
+
+Wir haben den Befehl unter der "act" Methode eingesetzt. Hierbei ist es egal, ob er sich direkt bei den anderen Befehlen, die mit den Tomaten zusammenhängen, befindet, oder nicht.
