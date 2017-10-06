@@ -138,6 +138,13 @@ Wir haben den Befehl unter der "act" Methode eingesetzt. Hierbei ist es egal, ob
 
 Benutzt man einen der Hotkeys, so erscheint das jeweilige Kommando, samt eines Eingabefeldes in der "act" Methode. Drückt man "escape", so verschwindet die Kommandospalte wieder. Gibt man einen Text in das Eingabefeld ein und drückt dann auf "escape", so passiert gar nichts.
 
+Markiert man den gesamten eingegebenen Text und drückt "backspace", so verschwindet der eingegebene Text, dass Kommando bleibt und lässt sich nun wieder mit "escape" entfernen.
+
+#### Aufgabe drei:
+
+Wählt man die beiden Befehle "move" und "turn" aus, und wählt "disable", so bewegt sich die Katze gar nicht mehr, wenn man "act" drückt. Wählt man nun "enable", so dreht sie sich wieder im Kreis.
+
+
 
 
 
