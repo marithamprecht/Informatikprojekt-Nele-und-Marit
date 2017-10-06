@@ -108,4 +108,8 @@ Wir fügen eine weitere Bedingung hinzu: Wenn der Greep eine Tomate berührt, so
 ![Screenshot01](Bilder/Screenshot.Greepersteschritte.png "Greep!")
 
 
-# Neunte und zehnte Stunde <a name="4"></a> (Doppelstunde)
+## Neunte und zehnte Stunde <a name="4"></a> (Doppelstunde)
+
+#### Aufgabe sechs:
+
+Wir lassen den Greep mithilfe der Pfeiltasten drehen, indem wir unter die "act" Mehode die Befehle "if (Greenfoot.isKeyDown("left"))" und "if (Greenfoot.isKeyDown("right"))" einfügen, und den Greep jeweils um fünf, beziehungsweise 
