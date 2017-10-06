@@ -126,6 +126,8 @@ Zunächst haben wir wie gefordert den Befehl "private int tomatoes <=0" dem Absc
 
 Wir haben den Befehl unter der "act" Methode eingesetzt. Hierbei ist es egal, ob er sich direkt bei den anderen Befehlen, die mit den Tomaten zusammenhängen, befindet, oder nicht.
 
+![Screenshot01](Bilder/Screenshot.Lernaktivitaeteinsende.png "Greep")
+
 ### Lernaktivität zwei
 
 #### Aufgabe eins:
