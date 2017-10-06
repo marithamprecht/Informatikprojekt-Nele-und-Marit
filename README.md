@@ -108,12 +108,14 @@ Wir fügen eine weitere Bedingung hinzu: Wenn der Greep eine Tomate berührt, so
 ![Screenshot01](Bilder/Screenshot.Greepersteschritte.png "Greep!")
 
 
-## Neunte und zehnte Stunde <a name="4"></a> (Doppelstunde)
+## Neunte und zehnte Stunde <a name="7"></a> (Doppelstunde)
 
 #### Aufgabe sechs:
 
 Wir lassen den Greep mithilfe der Pfeiltasten drehen, indem wir unter die "act" Mehode die Befehle "if (Greenfoot.isKeyDown("left"))" und "if (Greenfoot.isKeyDown("right"))" einfügen, und den Greep jeweils um 5, beziehungsweise -5 Grad drehen lassen. 
 
 #### Aufgabe sieben:
+
+Zunächst haben wir wie gefordert den Befehl "private int tomatoes <=0" dem Abschnitt "Fields" hinzugefügt. Damit die gefressenen Tomaten auch gezählt werden, mussten wir den Befehl "tomatoes <= tomatoes +1" unter dem Abschnitt "if (isTouching(Tomato.class))" der "act" Methode hinzufügen.
 
 ![Screenshot01](Bilder/Screenshot.Greepzaehlttomarten.png "Greep!")
