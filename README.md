@@ -113,3 +113,7 @@ Wir fügen eine weitere Bedingung hinzu: Wenn der Greep eine Tomate berührt, so
 #### Aufgabe sechs:
 
 Wir lassen den Greep mithilfe der Pfeiltasten drehen, indem wir unter die "act" Mehode die Befehle "if (Greenfoot.isKeyDown("left"))" und "if (Greenfoot.isKeyDown("right"))" einfügen, und den Greep jeweils um 5, beziehungsweise -5 Grad drehen lassen. 
+
+#### Aufgabe sieben:
+
+![Screenshot01](Bilder/Screenshot.Greepzaehlttomarten.png "Greep!")
