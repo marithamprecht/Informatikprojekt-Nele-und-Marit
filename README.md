@@ -105,5 +105,5 @@ Wir fügen eine weitere Bedingung hinzu: Wenn der Greep eine Tomate berührt, so
 
 ### Unser Stand am Ende der Stunde:
 
-![Screenshot01](Bilder/ScreenshotG.png "Greep!")
+![Screenshot01](Bilder/Screenshot.Greepersteschritte.png "Greep!")
 
