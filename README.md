@@ -84,6 +84,7 @@ Danach hatten wir die Idee einen neuen, gelben Kasten zu öffnen, damit alle ein
 Da wir Probleme mit der Programmierung unseres eigenen Projektes hatten, haben wir uns dazu entschlossen, uns mit Hilfe eines festgelegten Lernprogramms (Szenario "meet the greeps") ersteinmal einige Grundlagen und Befehle anzueignen. 
 
 ### Lernaktivität eins
+
 #### Aufgabe eins:
 
 Der Greep bewegt sich nach rechts und läuft an den Tomaten vorbei.
@@ -124,6 +125,10 @@ Zunächst haben wir wie gefordert den Befehl "private int tomatoes <=0" dem Absc
 #### Aufgabe acht:
 
 Wir haben den Befehl unter der "act" Methode eingesetzt. Hierbei ist es egal, ob er sich direkt bei den anderen Befehlen, die mit den Tomaten zusammenhängen, befindet, oder nicht.
+
+### Lernaktivität zwei
+
+#### Aufgabe eins:
 
 
 
