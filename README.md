@@ -132,6 +132,14 @@ Wir haben den Befehl unter der "act" Methode eingesetzt. Hierbei ist es egal, ob
 
 #### Aufgabe eins:
 
+Öffnet man das "CheatSheet", so erscheint eine Liste von möglichen Kommandos, und entsprechenden Kurzbefehlen (-> Hotkeys).
+
+#### Aufgabe zwei:
+
+Benutzt man einen der Hotkeys, so erscheint das jeweilige Kommando, samt eines Eingabefeldes in der "act" Methode. Drückt man "escape", so verschwindet die Kommandospalte wieder. Gibt man einen Text in das Eingabefeld ein und drückt dann auf "escape", so passiert gar nichts.
+
+
+
 
 
 
