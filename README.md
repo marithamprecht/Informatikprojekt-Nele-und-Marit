@@ -168,3 +168,5 @@ Unter der "birds eye view" im Stride-Quelltext findet man die Methoden, die auch
 ![Screenshot01](Bilder/Screenshot.fatcat1.png "Fatcat")
 
 Wir haben einen neuen Methodenaufruf geöffnet. Drückt man nun "Steuerung" und "Space", so öffnet sich ein Menü mit allen Methoden, aus denen man auswählen kann.
+
+Wählt man nun den Buchstaben "i", so reduziert sich die Auswahl der möglichen Methoden auf alle diejenigen, die mit einem "i" anfangen.
