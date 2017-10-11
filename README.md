@@ -14,6 +14,8 @@
 
 [06/10/17, 9. und 10. Stunde](#7)
 
+[11/10/17, 11. Stunde](#8)
+
 
 
 ## Erste und zweite Stunde<a name="1"></a> (Doppelstunde)
@@ -145,7 +147,7 @@ Markiert man den gesamten eingegebenen Text und drückt "backspace", so verschwi
 Wählt man die beiden Befehle "move" und "turn" aus, und wählt "disable", so bewegt sich die Katze gar nicht mehr, wenn man "act" drückt. Wählt man nun "enable", so dreht sie sich wieder im Kreis.
 
 
-
+## Elfte Stunde <a name="8"></a> 
 
 
 
