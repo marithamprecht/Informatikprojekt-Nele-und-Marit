@@ -146,7 +146,7 @@ Markiert man den gesamten eingegebenen Text und drückt "backspace", so verschwi
 
 Wählt man die beiden Befehle "move" und "turn" aus, und wählt "disable", so bewegt sich die Katze gar nicht mehr, wenn man "act" drückt. Wählt man nun "enable", so dreht sie sich wieder im Kreis.
 
-#### aufgabe vier:
+#### Aufgabe vier:
 
 ![Screenshot01](Bilder/screenshot_doppelter_dialog.jpg "fatcat")
 
