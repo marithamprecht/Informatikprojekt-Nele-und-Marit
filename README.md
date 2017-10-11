@@ -150,16 +150,16 @@ Wählt man die beiden Befehle "move" und "turn" aus, und wählt "disable", so be
 
 ![Screenshot01](Bilder/screenshot_doppelter_dialog.jpg "fatcat")
 
-Unter "inherited from actor" findet man alle Befehle, die die klasse "actor" ausführen kann, wie beispielsweise den Befehl "move".
+Unter "inherited from actor" findet man alle Methoden, die die klasse "actor" ausführen kann, wie beispielsweise die Methode "move".
 
-Unter "inherited from cat" findet man Befehle, die speziell für die Katze programmiert worden sind, wie beispielsweise "is hungry".
+Unter "inherited from cat" findet man Methoden, die speziell für die Katze programmiert worden sind, wie beispielsweise "is hungry".
 
 
 ## Elfte Stunde <a name="8"></a> 
 
 #### Aufgabe vier (Fortsetztung):
 
-Unter dem Pfeilkopf in der Klassendefinition sind die gleichen Befehle aufgelistet, wie vorhin unter "inherited from actor", beziehungsweise "inherited from cat".
+Unter dem Pfeilkopf in der Klassendefinition sind die gleichen Methoden aufgelistet, wie vorhin unter "inherited from actor", beziehungsweise "inherited from cat".
 
-
+Unter der "birds eye view" im Stride-Quelltext findet man die Methoden, die auch unter "inherited from cat" zu finden sind.
 
