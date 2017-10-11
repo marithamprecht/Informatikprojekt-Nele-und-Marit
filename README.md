@@ -150,6 +150,9 @@ Wählt man die beiden Befehle "move" und "turn" aus, und wählt "disable", so be
 
 ![Screenshot01](Bilder/screenshot_doppelter_dialog.jpg "fatcat")
 
+Unter "inherited from actor" findet man alle Befehle, die die klasse "actor" ausführen kann, wie beispielsweise den Befehl "move". 
+Unter "inherited from cat" findet man Befehle, die speziell für die Katze programmiert worden sind, wie beispielsweise "is hungry".
+
 
 ## Elfte Stunde <a name="8"></a> 
 
