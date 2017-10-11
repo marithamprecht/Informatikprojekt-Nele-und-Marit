@@ -163,3 +163,6 @@ Unter dem Pfeilkopf in der Klassendefinition sind die gleichen Methoden aufgelis
 
 Unter der "birds eye view" im Stride-Quelltext findet man die Methoden, die auch unter "inherited from cat" zu finden sind.
 
+#### Aufgabe fünf:
+
+![Screenshot01](Bilder/Screenshot.fatcat1.png "Fatcat")
