@@ -185,11 +185,14 @@ Wir haben die Katze essen, schlafen und tanzen lassen, indem wir die entsprechen
 Wir haben uns eine eigene Routine für die Katze überlegt. Diese besteht daraus, "Hooray!" zu rufen, sich schlafen zu legen, sich dabei einmal um sich selbst zu drehen, und anschließend noch einmal "Hooray!" zu rufen.
 ![Screenshot01](Bilder/Screenshot.Fatcateigeneroutine.png "FatCat")
 
-#### Aufgaben sechs bis acht
+#### Aufgaben sechs bis acht:
 
 Wir sollten die Katze mit Hilfe eines if-Befehls tanzen lassen, wenn sie gelangweilt ist, und schlafen lassen, falls sie müde ist.
 ![Screenshot01](Bilder/Screenshot.fatcatifbefehle.png "FatCat")
+
 Die Katze befolgt nun zusätzlich den Befehl, wenn sie hungrig ist, ein Stück Pizza zu essen.
 
+#### Aufgaben neun bis zehn:
 
+![Screenshot01](Bilder/Screenshot.fatcatsleepHooray.png "FatCat")
 
