@@ -189,5 +189,6 @@ Wir haben uns eine eigene Routine für die Katze überlegt. Diese besteht daraus
 
 
 
-![Screenshot01](Bilder/
+![Screenshot01](Bilder/fatcatifbefehle.png "FatCat")
+
 
