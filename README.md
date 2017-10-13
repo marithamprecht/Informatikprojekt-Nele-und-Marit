@@ -187,7 +187,7 @@ Wir haben uns eine eigene Routine für die Katze überlegt. Diese besteht daraus
 
 #### Aufgaben sechs bis sieben
 
-
+Wir sollten die Katze mit Hilfe eines if-Befehls tanzen lassen, wenn sie gelangweilt ist, und schlafen lassen, falls sie müde ist.
 
 ![Screenshot01](Bilder/fatcatifbefehle.png "FatCat")
 
