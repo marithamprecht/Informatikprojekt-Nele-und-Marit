@@ -178,11 +178,16 @@ Wählt man nun den Buchstaben "i", so reduziert sich die Auswahl der möglichen 
 
 ### Lernaktivität drei
 
-#### Aufgaben eins-fünf:
+#### Aufgaben eins bis fünf:
 
 Wir haben die Katze essen, schlafen und tanzen lassen, indem wir die entsprechenden Befehle (eat(), sleep(how long), dance()) in der act-Methode hinzugefügt haben.
 
 Wir haben uns eine eigene Routine für die Katze überlegt. Diese besteht daraus, "Hooray!" zu rufen, sich schlafen zu legen, sich dabei einmal um sich selbst zu drehen, und anschließend noch einmal "Hooray!" zu rufen.
 ![Screenshot01](Bilder/Screenshot.Fatcateigeneroutine.png "FatCat")
 
+#### Aufgaben sechs bis sieben
+
+
+
+![Screenshot01](Bilder/
 
