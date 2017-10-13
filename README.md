@@ -16,6 +16,8 @@
 
 [11/10/17, 11. Stunde](#8)
 
+[13/10/17, 12. und 13. Stunde](#9)
+
 
 
 ## Erste und zweite Stunde<a name="1"></a> (Doppelstunde)
@@ -170,3 +172,6 @@ Unter der "birds eye view" im Stride-Quelltext findet man die Methoden, die auch
 Wir haben einen neuen Methodenaufruf geöffnet. Drückt man nun "Steuerung" und "Space", so öffnet sich ein Menü mit allen Methoden, aus denen man auswählen kann.
 
 Wählt man nun den Buchstaben "i", so reduziert sich die Auswahl der möglichen Methoden auf alle diejenigen, die mit einem "i" anfangen.
+
+
+## Zwölfte und dreizehnte Stunde <a name="9"></a> 
