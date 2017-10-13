@@ -202,8 +202,13 @@ Soll die Katze schlafen, wenn sie alleine ist, und "Hooray!" rufen, sobald sie G
 
 ### Lernaktivität vier
 
-#### Aufgabe eins:
+#### Aufgabe:
 
 Wenn man die Krabbe in der Welt speichert, so erscheint im Quelltext zusätzlich zu der Beschreibung der Welt noch ein Methoden-Fenster:
 
 ![Screenshot01](Bilder/Screenshot.littlecrab1.png "LittleCrab")
+
+#### Aufgabe eins bis drei:
+
+![Screenshot01](Bilder/Screenshot.littlecrab2.png "LittleCrab")
+
