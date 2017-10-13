@@ -180,4 +180,6 @@ Wählt man nun den Buchstaben "i", so reduziert sich die Auswahl der möglichen 
 
 #### Aufgaben eins-fünf:
 
-Wir haben die Katze essen, schlafen und tanzen lassen, indem wir die entsprechenden Befehle (eat(), sleep(how long), dance() in der act-Methode hinzugefügt haben.
+Wir haben die Katze essen, schlafen und tanzen lassen, indem wir die entsprechenden Befehle (eat(), sleep(how long), dance()) in der act-Methode hinzugefügt haben.
+
+
