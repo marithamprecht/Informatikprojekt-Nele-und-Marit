@@ -197,3 +197,5 @@ Die Katze befolgt nun zusätzlich den Befehl, wenn sie hungrig ist, ein Stück P
 Die Aufgabe war es, die Katze schlafen zu lassen, falls sie müde ist. Anschließend sollte sie "Hooray!" rufen. Wenn sie nicht müde ist, sollte sie nur "Hooray!" rufen. Um die Katze müde zu machen, kann man sie tanzen lassen. Dies funktioniert mit einem Rechtsklick auf die Katze, dann kann man unter "inherited from actor" die Methode "dance" auswählen.
 ![Screenshot01](Bilder/Screenshot.fatcatsleepHooray.png "FatCat")
 
+
+![Screenshot01](Bilder/Screenshot.fatcatcompany.png "FatCat")
