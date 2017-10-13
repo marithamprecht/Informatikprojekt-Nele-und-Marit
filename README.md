@@ -174,4 +174,10 @@ Wir haben einen neuen Methodenaufruf geöffnet. Drückt man nun "Steuerung" und 
 Wählt man nun den Buchstaben "i", so reduziert sich die Auswahl der möglichen Methoden auf alle diejenigen, die mit einem "i" anfangen.
 
 
-## Zwölfte und dreizehnte Stunde <a name="9"></a> 
+## Zwölfte und dreizehnte Stunde <a name="9"></a> (Doppelstunde)
+
+### Lernaktivität drei
+
+#### Aufgaben eins-fünf:
+
+Wir haben die Katze essen, schlafen und tanzen lassen, indem wir die entsprechenden Befehle (eat(), sleep(how long), dance() in der act-Methode hinzugefügt haben.
