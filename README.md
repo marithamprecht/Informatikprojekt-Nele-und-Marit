@@ -199,3 +199,9 @@ Die Aufgabe war es, die Katze schlafen zu lassen, falls sie müde ist. Anschlie�
 
 Soll die Katze schlafen, wenn sie alleine ist, und "Hooray!" rufen, sobald sie Gesellschaft hat, muss man in der act- Methode folgende Befehle und Bedingungen einsetzen:
 ![Screenshot01](Bilder/Screenshot.fatcatcompany.png "FatCat")
+
+### Lernaktivität vier
+
+#### Aufgabe eins:
+
+![Screenshot01](Bilder/Screenshot.littlecrab1.png "LittleCrab")
