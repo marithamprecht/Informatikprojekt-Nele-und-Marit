@@ -18,6 +18,7 @@
 
 [13/10/17, 12. und 13. Stunde](#9)
 
+[1/10/17, 14. Stunde](#10)
 
 
 ## Erste und zweite Stunde<a name="1"></a> (Doppelstunde)
@@ -213,8 +214,14 @@ Wenn man die Krabbe in der Welt speichert, so erscheint im Quelltext zusätzlich
 Wir sollten die Krabbe so lange geradeaus laufen lassen, bis sie den Rand der Welt erreicht. Hier sollte sie sich um eine Gradzahl drehen, die optisch möglichst gut zu der Bewegung der Krabbe passt. Wir haben uns für 80° entschieden, da so die gesamte Welt, und nicht nur ihr Rand ausgenutzt wird.
 ![Screenshot01](Bilder/Screenshot.littlecrab2.png "LittleCrab")
 
+## Vierzehnte Stunde <a name="10"></a>
 
 ### Lernaktivität fünf:
+
+#### Aufgabe:
+
+In dieser Lernaktivität ging es um das Erzeugen von Befehlen mit zufälligen Parametern.
+
 
 
 
