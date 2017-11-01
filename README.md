@@ -213,3 +213,8 @@ Wenn man die Krabbe in der Welt speichert, so erscheint im Quelltext zusätzlich
 Wir sollten die Krabbe so lange geradeaus laufen lassen, bis sie den Rand der Welt erreicht. Hier sollte sie sich um eine Gradzahl drehen, die optisch möglichst gut zu der Bewegung der Krabbe passt. Wir haben uns für 80° entschieden, da so die gesamte Welt, und nicht nur ihr Rand ausgenutzt wird.
 ![Screenshot01](Bilder/Screenshot.littlecrab2.png "LittleCrab")
 
+
+### Lernaktivität fünf:
+
+
+
