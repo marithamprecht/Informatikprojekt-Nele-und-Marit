@@ -221,6 +221,7 @@ Wir sollten die Krabbe so lange geradeaus laufen lassen, bis sie den Rand der We
 #### Aufgabe:
 
 In dieser Lernaktivität ging es um das Erzeugen von Befehlen mit zufälligen Parametern. Die Aufgabe war es, die Krabbe mit einer Wahrscheinlichkeit von 10% um 4° drehen zu lassen. Hierzu benutzt man die Variable "getRandomNumber()". Um zu erreichen, dass die Wahrscheinlichkeit für 4° 10% beträgt, muss man lediglich den Parameter 10 eingeben. Da die jeweilige Gradzahl dann zufällig aus dem Bereich von 0°-10° ausgewählt wird, beträgt die Wahrscheinlichkeit für eine Drehung um 4° 10%.
+
 ![Screenshot01](Bilder/Screenshot.littlecrab3.png "littlecrab")
 
 
