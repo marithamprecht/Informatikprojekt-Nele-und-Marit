@@ -233,6 +233,11 @@ In dieser Lernaktivität ging es um das Erzeugen von Befehlen mit zufälligen Pa
 
 #### Aufgabe:
 
+Um die Krabbe einen Wurm fressen zu lassen, falls sie ihn berührt, haben wir unter der act-Methode einen neuen if-Befehl erstellt:
+
+![Screenshot01](Bilder/Screenshot.littlecrab4.png "LittleCrab")
+
+
 
 
 
