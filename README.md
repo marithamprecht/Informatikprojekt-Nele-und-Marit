@@ -18,7 +18,9 @@
 
 [13/10/17, 12. und 13. Stunde](#9)
 
-[1/10/17, 14. Stunde](#10)
+[1/11/17, 14. Stunde](#10)
+
+[3/11/17, 15. und 16. Stunde](#11)
 
 
 ## Erste und zweite Stunde<a name="1"></a> (Doppelstunde)
@@ -223,6 +225,15 @@ Wir sollten die Krabbe so lange geradeaus laufen lassen, bis sie den Rand der We
 In dieser Lernaktivität ging es um das Erzeugen von Befehlen mit zufälligen Parametern. Die Aufgabe war es, die Krabbe mit einer Wahrscheinlichkeit von 10% um 4° drehen zu lassen. Hierzu benutzt man die Variable "getRandomNumber()". Um zu erreichen, dass die Wahrscheinlichkeit für 4° 10% beträgt, muss man lediglich den Parameter 10 eingeben. Da die jeweilige Gradzahl dann zufällig aus dem Bereich von 0°-10° ausgewählt wird, beträgt die Wahrscheinlichkeit für eine Drehung um 4° 10%.
 
 ![Screenshot01](Bilder/Screenshot.littlecrab3.png "littlecrab")
+
+
+## Fünfzente und sechzente Stunde <a name="11"></a> Doppelstunde
+
+### Lernaktivität sechs:
+
+#### Aufgabe:
+
+
 
 
 
