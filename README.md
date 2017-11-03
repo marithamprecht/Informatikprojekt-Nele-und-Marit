@@ -237,6 +237,16 @@ Um die Krabbe einen Wurm fressen zu lassen, falls sie ihn berührt, haben wir un
 
 ![Screenshot01](Bilder/Screenshot.littlecrab4.png "LittleCrab")
 
+### Lernaktivität sieben:
+
+#### Aufgabe eins:
+
+In dieser Aufgabe sollte eine neue Actor-Klasse erstellt werden: Der Lobster sollte sich in unserer Welt willkürlich bewegen, und die Krabben fressen, wenn er sie berührt. Hierzu haben wir folgenden Quelltext erstellt:
+
+![Screenshot01](Bilder/Screenshot.littlecrab5.png "LittleCrab")
+
+
+
 
 
 
