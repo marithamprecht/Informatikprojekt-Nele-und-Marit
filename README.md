@@ -244,8 +244,13 @@ Um die Krabbe einen Wurm fressen zu lassen, falls sie ihn berührt, haben wir un
 In dieser Aufgabe sollte eine neue Actor-Klasse erstellt werden: Der Lobster sollte sich in unserer Welt willkürlich bewegen, und die Krabben fressen, wenn er sie berührt. Hierzu haben wir folgenden Quelltext erstellt:
 
 ![Screenshot01](Bilder/Screenshot.littlecrab5.png "LittleCrab")
+  
+![Screenshot01](Bilder/Screenshot.littlecrab7.png "LittleCrab")
 
+#### Aufgabe zwei:
 
+Wir sollten die Krabbe so programmieren, dass sie sich mit den Pfeiltasten steuern lässt. Hierzu mussten wir neue if-Befehle in den Quelltext hinzufügen, die dafür sorgen, dass die Krabbe wenn eine der Pfeiltatsen gedrückt
+![Screenshot01](Bilder/Screenshot.littlecrab6.png "LittleCrab")
 
 
 
