@@ -227,7 +227,7 @@ In dieser Lernaktivität ging es um das Erzeugen von Befehlen mit zufälligen Pa
 ![Screenshot01](Bilder/Screenshot.littlecrab3.png "littlecrab")
 
 
-## Fünfzente und sechzente Stunde <a name="11"></a> Doppelstunde
+## Fünfzente und sechzente Stunde <a name="11"></a> (Doppelstunde)
 
 ### Lernaktivität sechs:
 
