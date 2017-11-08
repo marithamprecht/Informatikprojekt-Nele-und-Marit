@@ -262,7 +262,9 @@ Wir sollten die Krabbe so programmieren, dass sie sich mit den Pfeiltasten steue
 
 #### Aufgabe drei:
 
+Um die act-Methode übersichtlicher zu gestalten, kann es sinnvoll sein, einige ihrer Teile auszulagern. Dies macht man, indem man eien neuen Methodenaufruf erstellt, und die auszulagernden Teile unter diesem Methodenaufruf hinzufügen. Dann kann man unter der act-Methode die Einzelteile des neuen Methodenaufrufes entfernen, und stattdessen den neuen Methodenaufruf hinzufügen:
 
+![Screenshot01](Bilder/Screenshot.littlecrab8.png "LittleCrab")
 
 
 
