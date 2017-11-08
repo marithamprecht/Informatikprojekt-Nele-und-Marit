@@ -251,13 +251,17 @@ In dieser Aufgabe sollte eine neue Actor-Klasse erstellt werden: Der Lobster sol
 
 #### Aufgabe zwei:
 
-Wir sollten die Krabbe so programmieren, dass sie sich mit den Pfeiltasten steuern lässt. Hierzu mussten wir neue if-Befehle in den Quelltext hinzufügen, die dafür sorgen, dass die Krabbe wenn eine der Pfeiltatsen gedrückt
+Wir sollten die Krabbe so programmieren, dass sie sich mit den Pfeiltasten steuern lässt. Hierzu mussten wir neue if-Befehle in den Quelltext hinzufügen, die dafür sorgen, dass die Krabbe sich, wenn eine der Pfeiltatsen gedrückt wird, in die entsprechende Richtung dreht.
+Außerdem sollten wir den Quelltext des Lobsters so programmieren, dass er ein Geräusch von sich gibt, wenn er eine Krabbe frisst. Hierzu mussten wir zunächst den entsprechenden sound zu den Dokumenten im Greenfoot-Ordner hinzufügen. als nächstes haben wir den sound in den Constructor des Lobsters hinzugefügt, und ihm den Namen "frissTon" gegeben. Nun konnten wir unter der act-Methode unter der if-Bedingung, dass der Lobster auf eine Krabbe trifft, den Befehl "frissTon.play" hinzufügen:
+
 ![Screenshot01](Bilder/Screenshot.littlecrab6.png "LittleCrab")
 
 
 ## Siebzente Stunde <a name="12"></a>
 
-#### Aufgabe 
+#### Aufgabe drei:
+
+
 
 
 
