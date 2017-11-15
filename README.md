@@ -35,7 +35,7 @@ Danach haben wir versucht das Programm Greenfoot besser verstehen und kennen zu 
 
 ## Dritte Stunde<a name="2"></a>
 
-### Wie setzte ich einen Screenshot und füge ihn in GitHub ein?
+### Wie erstelle ich einen Screenshot und füge ihn in GitHub ein?
 
 Marit konnte aufgrund von Krankheit nicht am Unterricht teilnehmen. 
 
