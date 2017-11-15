@@ -27,9 +27,9 @@
 
 ## Erste und zweite Stunde<a name="1"></a> (Doppelstunde)
 
-Zu erst legten wir (Marit und Nele) uns einen Github Account an. Dies war aufwendiger als wir dachten, da das Programm zunächst nicht Nele's E-Mail akzeptierte. Letztlich hat es funktioniert.
+Zu erst legten wir uns einen Github Account an. Dies war aufwendiger als wir dachten, da das Programm zunächst nicht Nele's E-Mail akzeptierte. Letztendlich hat es funktioniert.
 
-Danach haben wir versucht das Programm Greenfoot besser verstehen zu können bzw. kennen zu lernen . Wir brachten dem Wombat bei statt nach links abzubiegen, nach rechts zu laufen, wenn er auf eine Wand trift.
+Danach haben wir versucht das Programm Greenfoot besser verstehen und kennen zu lernen . Wir benutzten das Szenario "Leaves and Wombats" und brachten dem Wombat bei ,statt nach links nach rechts abzubiegen, wenn es auf eine Wand trifft.
 
 
 
@@ -39,7 +39,7 @@ Danach haben wir versucht das Programm Greenfoot besser verstehen zu können bzw
 
 Marit konnte aufgrund von Krankheit nicht am Unterricht teilnehmen. 
 
-Deshalb hab ich (Nele) in unserem GitHub-Projekt die Verlinkungen zu den Stunden 1 und 2 hergestellt, und versucht einen Screenshot einzusetzen. Zunächst musste ich heraus finden wie man einen Screenshot macht. Taste: DruckS-Abf. Danach wurde dieser in Paint geöffnet und ausgeschnitten.
+Deshalb hab ich (Nele) in unserem GitHub-Projekt die Verlinkungen zu den Stunden 1 und 2 hergestellt, und versucht einen Screenshot einzusetzen. Zunächst musste ich heraus finden wie man einen Screenshot macht. Taste: Druck/S-Abf. Danach wurde dieser in Paint geöffnet und ausgeschnitten.
 
 
 
@@ -52,29 +52,15 @@ Wir haben auf GitHub einen Ordner für Bilder an gelegt und einen Screenshot hoc
 
 ### Greenfootprojekt 
 
-Grundidee:
+Wir haben uns entschieden, unser Projekt mit Greenfoot umzusetzen. Der Plan war es, ein Spiel zu programmieren. Dieses sollte in einer Unterwasserwelt lokalisiert sein. der "Hauptcharakter" des Spieles sollte ein Delfin sein, welcher sich mit Hilfe der Pfeiltasten steuern lässt. Ziel des Spiels sollte es sein, den Delfin Fische fressen zu lassen, welche sich nach dem Zufallsprinzip in der Welt bewegen. Zusätlich sollte es Anker geben, die ,ebenfalls zufällig, vom oberen Rand der Unterwasserwelt (von der Wasseroberfläche) herunterfallen. Wird der Delfin von einem Anker getroffen, so hat der Spieler das Spiel verloren.
 
-- Unterwasserwelt
-
-- Delfin, Fisch und Anker
-
-- Delfin ist steuerbar
-
-- Fisch bewegt sich nach Regeln
-
-- Anker fällt vom oberen Spielrand
-
-- Spielziel Delfin isst Fisch, soll alle essen
-
-- trifft Anker Delfin, Spiel Ende
-
-Zuerst haben wir uns den wet-blue Hintergrund für unsere Welt ausgesucht und eingefügt. Sie trägt den Namen "Unterwasserwelt". Danach setzten wir mit der Funktion "new subclass" einen Fisch in unsere Welt. Durch "open editor" konnten wir mit Hilfe von Greenfoot Class Documentation unseren Fisch so programmieren, dass er sich bewegt (move (Anzahl der Schritte)).
+Zuerst haben wir uns den "wet-blue"-Hintergrund für unsere Welt ausgesucht und eingefügt. Sie trägt den Namen "Unterwasserwelt". Danach setzten wir mit der Funktion "new subclass" einen Fisch in unsere Welt. Durch "open editor" konnten wir mit Hilfe der Greenfoot Class Documentation unseren Fisch so programmieren, dass er sich bewegt. Hierzu benutzen wir die Methode "move (Anzahl der Schritte)".
 
 ![Screenshot01](Bilder/Screenshot02Greenfootspiel.png "Fisch!")
 
 
 ## Sechste Stunde <a name="4"></a>
-Diese Stunde wollten wir erreichen, dass sich unser Fisch dreht, wenn er an den Ecken der Welt ankommt.
+Diese Stunde wollten wir erreichen, dass sich unser Fisch dreht, wenn er am Rand der Welt ankommt.
 
 ![Screenshot01](Bilder/Screenshot03GreenfootFischdrehtsich.png "Drehen!")
 
@@ -82,9 +68,9 @@ Diese Stunde wollten wir erreichen, dass sich unser Fisch dreht, wenn er an den 
 ## Siebte Stunde <a name="5"></a> 
 In dieser Stunde war Herr Buhl abwesend. Dennoch arbeiteten wir an unserem Greenfootprojekt weiter.
 
-Zunächst war unser Plan der Stunde den Fisch unbestimmt durch unsere Unterwasserwelt laufen zu lassen. Jedoch stellte sich das ohne helfene Tips, als ziemlich schwierig, wenn nicht sogar als unmöglich herraus, wenn keine Programmiervorkenntnisse existieren. Wir versuchten unser Glück.
+Zunächst war unser Plan der Stunde den Fisch zufällig durch unsere Unterwasserwelt laufen zu lassen, was sich jedoch als schwieriger herausstellte, als wir gedacht hatten.
 
-Wir programmierten den Fisch so, dass er sich, wenn man Start drückte, um eine bestimmte Gradzahl drehte und danach an der Ecke der Unterwasserwelt, die eingestellten Schritte lief.
+Wir programmierten den Fisch so, dass er sich, wenn man "act" drückte, bis zum Rand der Welt bewegte, und sich dann um eine bestimmte Gradzahl drehte, und wieder weiter lief. 
 
 Danach hatten wir die Idee einen neuen, gelben Kasten zu öffnen, damit alle eingestellen Funktionen, wie "move","turn(getRandomNumber)" und "atWorldEgde", gleichzeitig ablaufen sollten. 
 
