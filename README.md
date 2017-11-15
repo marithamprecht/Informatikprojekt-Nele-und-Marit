@@ -66,17 +66,15 @@ Diese Stunde wollten wir erreichen, dass sich unser Fisch dreht, wenn er am Rand
 
 
 ## Siebte Stunde <a name="5"></a> 
-In dieser Stunde war Herr Buhl abwesend. Dennoch arbeiteten wir an unserem Greenfootprojekt weiter.
+In dieser Stunde war Herr Buhl abwesend. 
 
 Zunächst war unser Plan der Stunde den Fisch zufällig durch unsere Unterwasserwelt laufen zu lassen, was sich jedoch als schwieriger herausstellte, als wir gedacht hatten.
 
-Wir programmierten den Fisch so, dass er sich, wenn man "act" drückte, bis zum Rand der Welt bewegte, und sich dann um eine bestimmte Gradzahl drehte, und wieder weiter lief. 
-
-Danach hatten wir die Idee einen neuen, gelben Kasten zu öffnen, damit alle eingestellen Funktionen, wie "move","turn(getRandomNumber)" und "atWorldEgde", gleichzeitig ablaufen sollten. 
+Wir versuchten, den Quelltext des Fisches so zu progranmmieren, das dieser sich am Rand der Welt um eine zufällige Gradzahl dreht, und dann weiterläuft. Leider schafften wir es aber nicht, die Methode "int getRandomNumber()" korrekt anzuwenden.
 
 
 ## Achte Stunde <a name="6"></a>
-Da wir Probleme mit der Programmierung unseres eigenen Projektes hatten, haben wir uns dazu entschlossen, uns mit Hilfe eines festgelegten Lernprogramms (Szenario "meet the greeps") ersteinmal einige Grundlagen und Befehle anzueignen. 
+Da wir Probleme mit der Programmierung unseres eigenen Projektes hatten, haben wir uns dazu entschlossen, uns mit Hilfe eines festgelegten Lernprogrammes ersteinmal einige Grundlagen anzueignen. Dieses Lernprogramm bestand aus mehreren Lernaktivitäten.
 
 ### Lernaktivität eins
 
@@ -86,7 +84,7 @@ Der Greep bewegt sich nach rechts und läuft an den Tomaten vorbei.
 
 #### Aufgabe zwei:
 
-Der Greep dreht sich im auf der Stelle.
+Der Greep dreht sich auf der Stelle.
 
 #### Aufgabe drei:
 
@@ -94,13 +92,13 @@ Der Greep dreht sich im Kreis.
 
 #### Aufgabe vier:
 
-Der Greep bekommt den Befehl sich geradeaus zu bewegen. Sobald er den Rand der Welt erreicht, bekommt er einen anderen Befehl, nämlich sich zu drehen. Sobald diese Bedingung (Greep befindet sich am Rand der Welt) nicht mehr erfüllt wird, bewegt der Greep sich wieder geradeaus.
+Der Greep erhält den Befehl, sich geradeaus zu bewegen. Sobald er den Rand der Welt erreicht, erhält er den Befehl, sich zu drehen. Sobald die Bedingung "Greep befindet sich am Rand der Welt" nicht mehr erfüllt ist, bewegt der Greep sich wieder geradeaus.
 
 #### Aufgabe fünf:
 
-Wir fügen eine weitere Bedingung hinzu: Wenn der Greep eine Tomate berührt, so soll er sie entfernen.
+Wir fügen eine weitere Bedingung hinzu: Wenn der Greep eine Tomate berührt, so soll diese entfernt (vom Greep gefressen) werden.
 
-### Unser Stand am Ende der Stunde:
+#### Unser Stand am Ende der Stunde:
 
 ![Screenshot01](Bilder/Screenshot.Greepersteschritte.png "Greep!")
 
@@ -143,7 +141,7 @@ Wählt man die beiden Befehle "move" und "turn" aus, und wählt "disable", so be
 
 ![Screenshot01](Bilder/screenshot_doppelter_dialog.jpg "fatcat")
 
-Unter "inherited from actor" findet man alle Methoden, die die klasse "actor" ausführen kann, wie beispielsweise die Methode "move".
+Unter "inherited from actor" findet man alle Methoden, die die Klasse "actor" ausführen kann, wie beispielsweise die Methode "move".
 
 Unter "inherited from cat" findet man Methoden, die speziell für die Katze programmiert worden sind, wie beispielsweise "is hungry".
 
@@ -174,11 +172,13 @@ Wählt man nun den Buchstaben "i", so reduziert sich die Auswahl der möglichen 
 Wir haben die Katze essen, schlafen und tanzen lassen, indem wir die entsprechenden Befehle (eat(), sleep(how long), dance()) in der act-Methode hinzugefügt haben.
 
 Wir haben uns eine eigene Routine für die Katze überlegt. Diese besteht daraus, "Hooray!" zu rufen, sich schlafen zu legen, sich dabei einmal um sich selbst zu drehen, und anschließend noch einmal "Hooray!" zu rufen.
+
 ![Screenshot01](Bilder/Screenshot.Fatcateigeneroutine.png "FatCat")
 
 #### Aufgaben sechs bis acht:
 
 Wir sollten die Katze mit Hilfe eines if-Befehls tanzen lassen, wenn sie gelangweilt ist, und schlafen lassen, falls sie müde ist.
+
 ![Screenshot01](Bilder/Screenshot.fatcatifbefehle.png "FatCat")
 
 Die Katze befolgt nun zusätzlich den Befehl, wenn sie hungrig ist, ein Stück Pizza zu essen.
@@ -186,9 +186,11 @@ Die Katze befolgt nun zusätzlich den Befehl, wenn sie hungrig ist, ein Stück P
 #### Aufgaben neun bis zehn:
 
 Die Aufgabe war es, die Katze schlafen zu lassen, falls sie müde ist. Anschließend sollte sie "Hooray!" rufen. Wenn sie nicht müde ist, sollte sie nur "Hooray!" rufen. Um die Katze müde zu machen, kann man sie tanzen lassen. Dies funktioniert mit einem Rechtsklick auf die Katze, dann kann man unter "inherited from actor" die Methode "dance" auswählen.
+
 ![Screenshot01](Bilder/Screenshot.fatcatsleepHooray.png "FatCat")
 
 Soll die Katze schlafen, wenn sie alleine ist, und "Hooray!" rufen, sobald sie Gesellschaft hat, muss man in der act- Methode folgende Befehle und Bedingungen einsetzen:
+
 ![Screenshot01](Bilder/Screenshot.fatcatcompany.png "FatCat")
 
 ### Lernaktivität vier
@@ -202,6 +204,7 @@ Wenn man die Krabbe in der Welt speichert, so erscheint im Quelltext zusätzlich
 #### Aufgabe eins bis drei:
 
 Wir sollten die Krabbe so lange geradeaus laufen lassen, bis sie den Rand der Welt erreicht. Hier sollte sie sich um eine Gradzahl drehen, die optisch möglichst gut zu der Bewegung der Krabbe passt. Wir haben uns für 80° entschieden, da so die gesamte Welt, und nicht nur ihr Rand ausgenutzt wird.
+
 ![Screenshot01](Bilder/Screenshot.littlecrab2.png "LittleCrab")
 
 ## Vierzehnte Stunde <a name="10"></a>
@@ -233,7 +236,7 @@ In dieser Aufgabe sollte eine neue Actor-Klasse erstellt werden: Der Lobster sol
 
 ![Screenshot01](Bilder/Screenshot.littlecrab5.png "LittleCrab")
   
-Außerdem sollten wir den Quelltext des Lobsters so programmieren, dass er ein Geräusch von sich gibt, wenn er eine Krabbe frisst. Hierzu mussten wir zunächst den entsprechenden sound zu den Dokumenten im Greenfoot-Ordner hinzufügen. als nächstes haben wir den sound in den Constructor des Lobsters hinzugefügt, und ihm den Namen "frissTon" gegeben. Nun konnten wir unter der act-Methode unter der if-Bedingung, dass der Lobster auf eine Krabbe trifft, den Befehl "frissTon.play" hinzufügen:
+Außerdem sollten wir den Quelltext des Lobsters so programmieren, dass er ein Geräusch von sich gibt, wenn er eine Krabbe frisst. Hierzu mussten wir zunächst das entsprechende Geräusch zu den Dokumenten im Greenfoot-Ordner hinzufügen. Als nächstes haben wir das Geräusch in den Constructor des Lobsters hinzugefügt, und ihm den Namen "frissTon" gegeben. Nun konnten wir in der act-Methode unter der if-Bedingung, dass der Lobster auf eine Krabbe trifft, den Befehl "frissTon.play" hinzufügen:
 
 ![Screenshot01](Bilder/Screenshot.littlecrab7.png "LittleCrab")
 
